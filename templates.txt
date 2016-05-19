@@ -1,0 +1,8 @@
+## Body mapping template
+
+{
+	"bsd": "$input.params('bsd')",
+}
+
+## Header mapping template
+Location: integration.response.body.location
